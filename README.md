@@ -5,8 +5,6 @@ the randomizer will not generate random holdables due to there not being any sol
 
 Mod made by https://github.com/developer9998
 
-Commissioned by Me (Cqs)
-
 YT VID ON IT
 https://www.youtube.com/watch?v=LXaGyAs-EV4
 ![Screenshot 2023-01-14 194351](https://user-images.githubusercontent.com/122703704/212503761-8b644ac4-568a-4343-8fdd-5253d0df3afb.png)
